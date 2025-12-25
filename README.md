@@ -9,15 +9,16 @@ The projects apply data science, statistical analysis, and machine learning tech
 
 ## 📂 Projects
 
-### 1️⃣ Football Player Skillset Metric (Machine Learning)
-**Objective:** Develop a machine learning-based metric to identify football players with a specific skillset that would benefit a team’s recruitment strategy.
+### 1️⃣ FFootball Player Skillset Analysis & Player Comparison
+**Objective:** Analyze and quantify a football player’s skillset using event-level data, and statistically compare their performance to peers in a major international tournament (EURO 2024) to support data-driven player evaluation.
 
 **Key techniques:**
-- Feature engineering on football performance data
-- Supervised machine learning models
-- Model evaluation and interpretation
+- Event-level data analysis using StatsBomb data
+- Feature selection and engineering of on-ball actions
+- Statistical comparison against tournament peers
+- Data visualization to support qualitative and quantitative insights
 
-📁 Folder: `project_1_football_metric`
+📁 Folder: `project_1_plotting_actions`
 
 ---
 
