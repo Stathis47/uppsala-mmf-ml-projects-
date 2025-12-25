@@ -18,5 +18,6 @@ Analyze and quantify a football player’s skillset using event-level data, and 
 - Comparison with tournament peers to contextualize performance
 
 **Interpretation:**
+
 The analysis demonstrates how event-level data can be used to profile player skillsets and support scouting-style evaluations.
 
