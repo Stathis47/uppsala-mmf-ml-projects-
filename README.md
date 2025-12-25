@@ -1,4 +1,4 @@
-# Mathematical Modeling of Fotball Projects 
+# ⚽ Mathematical Modeling of Fotball Projects 
 
 This repository contains selected projects developed during my MSc in Data Science, Statistics & Decision Analysis at Stockholm University.
 
