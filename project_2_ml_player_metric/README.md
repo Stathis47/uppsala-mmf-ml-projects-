@@ -23,7 +23,7 @@
 - Data visualization and football-focused interpretation
 
 **Data**
-This project uses proprietary football event and tracking-derived data (e.g. Wyscout / similar provider) to analyze player performance and movement patterns.
 
+This project uses proprietary football event and tracking-derived data (e.g. Wyscout / similar provider) to analyze player performance and movement patterns.
 Due to data licensing and usage restrictions, the raw data cannot be shared publicly in this repository. The analysis focuses on demonstrating the methodology, feature engineering, and analytical approach rather than data distribution.
 
