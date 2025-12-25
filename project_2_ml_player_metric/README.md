@@ -1,5 +1,7 @@
 ### Machine Learning-Based Football Player Evaluation Metric
-**Objective:** Design a novel machine learning-based metric to quantify a specific aspect of football performance, and use it to identify top-performing players across the top five European leagues to support data-driven recruitment decisions.
+**Objective:** 
+
+Design a novel machine learning-based metric to quantify a specific aspect of football performance, and use it to identify top-performing players across the top five European leagues to support data-driven recruitment decisions.
 
 **Individual contribution:**
 
