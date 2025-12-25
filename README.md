@@ -37,7 +37,7 @@ The projects apply data science, statistical analysis, and machine learning tech
 - Contributed to a joint recruitment report and final signing recommendations
 
 **Key techniques:**
-- Feature engineering on event-level football data (StatsBomb)
+- Feature engineering on event-level football data (WyScout)
 - Supervised machine learning modeling
 - Player ranking and cross-league comparison
 - Model evaluation and validation
