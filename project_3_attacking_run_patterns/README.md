@@ -1,6 +1,8 @@
 ### Attacking Run Pattern Analysis in Elite Football
 
-**Objective:** Analyze and quantify attacking run patterns of players during possession sequences, using tracking-derived run data from the 2023 UEFA Champions League Final.
+**Objective:** 
+
+Analyze and quantify attacking run patterns of players during possession sequences, using tracking-derived run data from the 2023 UEFA Champions League Final.
 
 **Key tasks:**
 - Visualized all attacking runs of a selected player to identify movement tendencies
