@@ -71,6 +71,7 @@ The projects apply data science, statistical analysis, and machine learning tech
 - pandas, numpy
 - scikit-learn
 - matplotlib, seaborn
+- mpl soccer 
 - Jupyter Notebook
 - LaTeX (technical and non-technical reports)
 - PowerPoint (presentations)
